@@ -151,7 +151,7 @@ hickory-resolver = "0.25.2"
 html5gum = "0.8.3"
 regex = { version = "1.12.2", features = ["std", "perf", "unicode-perl"], default-features = false }
 data-url = "0.3.2"
-bytes = "1.11.0"
+bytes = "1.11.1"
 svg-hush = "0.9.5"
 
 # Cache function results (Used for version check and favicon fetching)
