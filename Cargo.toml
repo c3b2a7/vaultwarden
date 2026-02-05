@@ -108,7 +108,7 @@ uuid = { version = "1.19.0", features = ["v4"] }
 # Date and time libraries
 chrono = { version = "0.4.43", features = ["clock", "serde"], default-features = false }
 chrono-tz = "0.10.4"
-time = "0.3.45"
+time = "0.3.47"
 
 # Job scheduler
 job_scheduler_ng = "2.4.0"
